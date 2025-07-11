@@ -65,3 +65,7 @@ Generating reports
 Updating configuration files
 
 Reading large logs or text-based data files in enterprise applications
+
+#output :
+
+![Image](https://github.com/user-attachments/assets/9646f3f0-3a64-4115-bfa9-5946c782f3da)
